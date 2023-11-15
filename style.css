@@ -59,7 +59,7 @@ p {
   margin: 0 auto 1.5em auto; /* bottom margin for paragraphs */
 }
 .profilepicture {
-  width: 100px;
+  width: 400px;
 }
 p + p {
 
@@ -94,11 +94,11 @@ blockquote p:last-child {
  */
 
 /* Full size background image */
-html, #container, .inner { background-color:transparent;}
+/* html, #container, .inner { background-color:transparent;}
 html {
-  background:url(background.jpg) center center no-repeat fixed;
-  background-size:cover;
-}
+ background:url(background.jpg) center center no-repeat fixed;
+ background-size:cover;
+} */
 body {
   max-width:800px;
   margin:25px auto;
